@@ -3,7 +3,7 @@
 <p><em>Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/bhatiavarun2007?label=Follow)
+<a href="https://dev.to/waylonwalker">![Twitter Follow](https://img.shields.io/twitter/follow/bhatiavarun2007?label=Follow)</a>
 [![Linkedin: thaianebraga](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-p-singh/)
 ![GitHub followers](https://img.shields.io/github/followers/Varun-93?label=Follow&style=social)
 
