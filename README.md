@@ -4,6 +4,7 @@
 </em></p>
 
 <a href="https://twitter.com/bhatiavarun2007">![Twitter Follow](https://img.shields.io/twitter/follow/bhatiavarun2007?label=Follow)</a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/bhatiavarun2007?style=social)](https://www.twitter.com/bhatiavarun2007)
 <a href="https://www.linkedin.com/in/varun-bhatia-a20729a8/">[![Linkedin: thaianebraga](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhatia-a20729a8/)](https://www.linkedin.com/in/varun-bhatia-a20729a8/)</a>
 [![GitHub followers](https://img.shields.io/github/followers/Varun-93?style=social)](https://www.github.com/Varun-93)
 
