@@ -1,13 +1,14 @@
-<h2>नमस्ते (Namaste)🙏🏻, <img src="https://media.giphy.com/media/l4hLTU9vannBNUQy4/giphy.gif" width="50"></h2>
+<h2>नमस्ते (Namaste)🙏🏻, <img src="https://media.giphy.com/media/l4hLTU9vannBNUQy4/giphy.gif" width="50"></h2> <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Varun-93" alt="visitor badge"/></p>
 <img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="230">
 <p><em>Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 <a href="https://twitter.com/bhatiavarun2007">![Twitter Follow](https://img.shields.io/twitter/follow/bhatiavarun2007?label=Follow)</a>
 <a href="https://www.linkedin.com/in/varun-bhatia-a20729a8/">[![Linkedin: thaianebraga](https://img.shields.io/badge/-Varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhatia-a20729a8/)](https://www.linkedin.com/in/varun-bhatia-a20729a8/)</a>
+[![GitHub followers](https://img.shields.io/github/followers/Varun-93?style=social)](https://www.github.com/Varun-93)
 
 
-My name is Varun Bhatia and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My name is Varun Bhatia and I'm fun to work with, I always like to learn new things from others as much as helping others solve their problems. You know what else is fun! Learning code is. Let's work for a better opensource, decentralized future. A world where everything is free and everyone is free to experement, learn, survive and thrive. Let's code for good.
 
 ## &#x270d; Blog & Writing
 
