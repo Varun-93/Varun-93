@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Varun's github stats](https://github-readme-stats.vercel.app/api?username=Varun-93)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![Varun's github stats](https://github-readme-stats.vercel.app/api?username=Varun-93&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-93&layout=compact)](https://github.com/Varun-93/github-readme-stats)
+
