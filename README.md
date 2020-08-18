@@ -1,5 +1,8 @@
 ### Hi there folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Varun Bhatia
 
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,6 +17,6 @@ Here are some ideas to get you started:
 
 
 
-![Varun's github stats](https://github-readme-stats.vercel.app/api?username=Varun-93&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Varun-93&layout=compact)](https://github.com/Varun-93/github-readme-stats)
+![Varun's github stats](https://github-readme-stats.vercel.app/api?username=Varun-93&show_icons=true&theme=radical)
 
