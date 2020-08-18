@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/bhatiavarun2007?style=social)](https://www.twitter.com/bhatiavarun2007)
-[![Linkedin Badge](https://img.shields.io/badge/-Varun Bhatia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhatia-a20729a8/)](https://www.linkedin.com/in/varun-bhatia-a20729a8/)
+[![Linkedin Badge](https://img.shields.io/badge/-VarunBhatia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhatia-a20729a8/)](https://www.linkedin.com/in/varun-bhatia-a20729a8/)
 [![GitHub followers](https://img.shields.io/github/followers/Varun-93?style=social)](https://www.github.com/Varun-93)
 
 
