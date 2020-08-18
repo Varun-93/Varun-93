@@ -1,4 +1,5 @@
-<h2>नमस्ते (Namaste)🙏🏻, <img src="https://media.giphy.com/media/l4hLTU9vannBNUQy4/giphy.gif" width="50"></h2> <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Varun-93" alt="visitor badge"/></p>
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=Varun-93" alt="visitor badge"/></p>
+<h2>नमस्ते (Namaste)🙏🏻, <img src="https://media.giphy.com/media/l4hLTU9vannBNUQy4/giphy.gif" width="50"></h2> 
 <img align='right' src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="230">
 <p><em>Data Science Enthusiast <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
