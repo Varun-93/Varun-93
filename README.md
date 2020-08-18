@@ -5,7 +5,6 @@
 
 <a href="https://twitter.com/bhatiavarun2007">![Twitter Follow](https://img.shields.io/twitter/follow/bhatiavarun2007?label=Follow)</a>
 <a href="https://www.linkedin.com/in/varun-bhatia-a20729a8/">[![Linkedin: thaianebraga](https://img.shields.io/badge/-varun-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/varun-bhatia-a20729a8/)](https://www.linkedin.com/in/varun-bhatia-a20729a8/)</a>
-<<a href="https://twitter.com/bhatiavarun2007">>![GitHub followers](https://img.shields.io/github/followers/Varun-93?label=Follow&style=social)</a>
 
 
 My name is Varun Bhatia and I'm a software developer/DevOps engineer. I'm from Slovakia, living in Bratislava and currently working at IBM. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
